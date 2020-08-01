@@ -1,0 +1,17 @@
+{
+    "author": "zjufishboy",
+    "background": {
+      "page": "background.html"
+    },
+    "browser_action": {
+      "default_icon": "on.png",
+      "default_title": "zju cc98 tools",
+      "default_popup":"background.html"
+    },
+    "description": "CC98-工具箱",
+    "manifest_version": 2,
+    "name": "CC98-工具箱",
+    "short_name": "CC98tools",
+    "permissions": [],
+    "version": "1.0"
+  }
